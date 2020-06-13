@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 #
 # https://help.github.com/articles/dealing-with-line-endings/
 #
 # These are explicitly windows files and should use crlf
 *.bat           text eol=crlf
 
+=======
+#
+# https://help.github.com/articles/dealing-with-line-endings/
+#
+# These are explicitly windows files and should use crlf
+*.bat           text eol=crlf
+
+>>>>>>> 95ccea025d47f0ecad3cd195306799d352af8358
